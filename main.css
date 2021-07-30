@@ -2,3 +2,14 @@ body {
   margin: 0;
   padding: 0;
 }
+.table {
+  width: 800px;
+  height: 400px;
+  background-color: aquamarine;
+}
+.table tr {
+  border: 1px solid black;
+}
+.table td {
+  background-color: bisque;
+}
